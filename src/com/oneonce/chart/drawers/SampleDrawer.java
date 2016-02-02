@@ -45,7 +45,7 @@ public class SampleDrawer extends Drawer {
 	    								600f, 170f,// point 5
 	    								20f, 170f// point-6
 	    								};
-	    glPaint.drawLineStrip(vertex2, Color.BLUE, 3f);// 5 points, line-width: 3
+	    glPaint.drawLineStrip(vertex2, Color.BLUE, 3f);// 6 points, line-width: 3
 	    
 	    
 	    // draw running times
