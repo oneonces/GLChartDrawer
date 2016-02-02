@@ -21,7 +21,7 @@ import android.view.SurfaceHolder;
  * Must extend GL10_SurfaceView, while use opengl draw something.<br/>
  * <br/>
  * 
- * @author lianghua
+ * @author oneonce
  * @date 2015.12.31
  * @version 1.0
  */

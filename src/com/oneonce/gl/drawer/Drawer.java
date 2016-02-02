@@ -12,7 +12,7 @@ import com.oneonce.gl.utils.GLPaint;
  * user can set the drawer is visible or not.<br/>
  * <br/>
  * 
- * @author lianghua
+ * @author oneonce
  * @date 2015.12.31
  * @version 1.0
  */

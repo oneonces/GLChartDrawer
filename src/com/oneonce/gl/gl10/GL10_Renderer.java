@@ -16,7 +16,7 @@ import android.opengl.GLSurfaceView;
  * While data is dirty, onDrawFrame will call the draw method of all drawers.<br/>
  * <br/>
  * 
- * @author lianghua
+ * @author oneonce
  * @date 2015.12.31
  * @version 1.0
  */

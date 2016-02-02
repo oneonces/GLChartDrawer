@@ -33,7 +33,7 @@ import android.opengl.GLUtils;
  * 2. this class provide draw-line/s, draw-rect, draw-bitmap method too.<br/>
  * <br/>
  * 
- * @author lianghua
+ * @author oneonce
  * @date 2015.12.31
  * @version 1.0
  */
