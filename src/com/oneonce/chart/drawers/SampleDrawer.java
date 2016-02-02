@@ -52,7 +52,7 @@ public class SampleDrawer extends Drawer {
 	    float fontsize = 80f;
 	    String strTimes = String.valueOf(times);
 	    int strWidth = glPaint.getStringWidth(strTimes, fontsize);
-	    // get the center of view
+	    // get the center of the surfaceView
 	    float x = (width - strWidth) / 2f;
 	    float y = (height - fontsize) / 2f;
 	    glPaint.drawText(strTimes, x, y, fontsize, Color.RED);
